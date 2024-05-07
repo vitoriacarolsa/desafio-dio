@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb1cf973-ae77-4830-9ce2-9792920ab91e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafio_POO/caixa_eletronico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio_codigo/lista_equipamentos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio_codigo/recomendar_plano.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio_codigo/validando_telefone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caixa_eletronico.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/caixa_eletronico.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/caixa_v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DIO\desafio_codigo" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.lista_equipamentos">
     <configuration name="caixa_eletronico" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DIO" />
@@ -150,7 +151,7 @@
       <workItem from="1714355551603" duration="1539000" />
       <workItem from="1714357181881" duration="2901000" />
       <workItem from="1714360349678" duration="35000" />
-      <workItem from="1715058188117" duration="304000" />
+      <workItem from="1715058188117" duration="1033000" />
     </task>
     <servers />
   </component>
